@@ -1,1 +1,2 @@
-print("Hello from Lab01.py")
+name = input("What's name: ")
+print(f"Hello {name} ")
